@@ -54,12 +54,10 @@ html, body{
 
 .section-container{
     text-align: center;
-    width: 90%;
 }
 
 h1{
-    overflow: inherit;
-    font-size: 450px;
+    font-size: 300px;
     color: #CC0000;
     margin: 0;
     padding: 0;
